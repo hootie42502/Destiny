@@ -1,0 +1,51 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	BasicWeapon: {
+		DisplayName: Basic Weapon
+		Tooltip:
+			'''
+			Template of an item
+			Replacing this tooltip is duty 
+			It's snowing on Mt.Fuji
+			'''
+	}
+
+	BasicWeapon1: {
+		DisplayName: Basic Weapon1
+		Tooltip: ""
+	}
+
+	LordOfWolves: {
+		DisplayName: Lord Of Wolves
+		Tooltip: ""
+	}
+
+	Gjallarhorn: {
+		DisplayName: Gjallarhorn
+		Tooltip: ""
+	}
+
+	TheLastWord: {
+		DisplayName: The Last Word
+		Tooltip: ""
+	}
+
+	Khvostov: {
+		DisplayName: Khvostov
+		Tooltip: ""
+	}
+
+	OrbOfLight: {
+		DisplayName: Orb Of Light
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	GjallarhornRocket.DisplayName: Gjallarhorn Rocket
+	WolfpackRound.DisplayName: Wolfpack Round
+	KhvostovBullet.DisplayName: Khvostov Bullet
+	KhvostovBullet1.DisplayName: Khvostov Bullet1
+	KhvostovBullet2.DisplayName: Khvostov Bullet2
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ArITN86PrWI=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\eric0\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Destiny\\Destiny.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eric0\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
